@@ -24,7 +24,9 @@
                 android:layout_marginRight="10dp"
                 android:text="@string/test_technics"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-                android:textSize="14sp" />
+                android:textSize="14sp"
+                />
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
+
