@@ -1,3 +1,3 @@
 # qaap
-Manual QA Theory
+Manual QA theory. App for learning the basics of testing.
 
