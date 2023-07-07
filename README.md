@@ -1,2 +1,3 @@
 # qaap
-Test qa app repository
+Manual QA Theory
+
